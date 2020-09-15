@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.lang.Thread;
 
-public class Par_Impar {
+public class odd or even {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("Odd ou Even");
         Thread.sleep (600);
