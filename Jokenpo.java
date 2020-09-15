@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.lang.Thread;
 
-public class Pedra_Papel_Tesoura {
+public class Jokenpo {
     public static void main(String[] args) throws InterruptedException {
         Scanner keyboard = new Scanner(System.in);
         Random random = new Random();
